@@ -1,6 +1,6 @@
 <!-- HEADER WITH ANIMATED WAVE & GRADIENT TEXT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=buituandev&reversal=false&textBg=false&animation=fadeIn&desc=Game%20|%20Mobile%20|%20UX/UX&descAlign=60&descAlignY=63" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=buituandev&reversal=false&textBg=false&animation=fadeIn&desc=Game%20|%20Mobile%20|%20UX/UI&descAlign=60&descAlignY=63" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
